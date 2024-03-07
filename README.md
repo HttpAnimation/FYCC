@@ -1,6 +1,8 @@
 # FYCC
 FYC client made in **c**.
 
+# THIS README IS NOT DONE
+
 ## Installing
 To install open a terminal and run the following command.
 ```bash
