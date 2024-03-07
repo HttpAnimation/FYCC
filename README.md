@@ -18,3 +18,4 @@ If you would like to build from source open a terminal and run the following com
 ```bash
 ```
 
+2) Enter the dir.
