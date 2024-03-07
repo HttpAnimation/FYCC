@@ -32,7 +32,7 @@ int main(int argc, char *argv[]) {
     g_signal_connect(window, "destroy", G_CALLBACK(gtk_main_quit), NULL);
 
     // Read the file repos.conf
-    char *filename = "repos.conf";
+    char *filename = "Testrepos.conf";
     char *conf_data = read_file(filename);
     if (conf_data == NULL) {
         g_print("Error reading file: %s\n", filename);
