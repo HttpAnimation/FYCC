@@ -10,3 +10,5 @@ To install open a terminal and run the following command.
 To run open a terminal where you installed [FYCC]() to run the following command.
 ```bash
 ```
+
+## Building from source
