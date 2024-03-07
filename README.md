@@ -1,2 +1,2 @@
 # FYCC
-A exp port of FYC in c
+FYC client made in **c**.
