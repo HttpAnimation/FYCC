@@ -22,7 +22,7 @@ If you would like to build from source open a terminal and run the following com
 ```bash
 ```
 
-3) Build
+4) Build
 ```bash
 
 ```
