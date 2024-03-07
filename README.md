@@ -12,3 +12,4 @@ To run open a terminal where you installed [FYCC]() to run the following command
 ```
 
 ## Building from source
+If you would like to build from source open a terminal and run the following commands.
