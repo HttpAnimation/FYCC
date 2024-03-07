@@ -5,3 +5,8 @@ FYC client made in **c**.
 To install open a terminal and run the following command.
 ```bash
 ```
+
+## Running
+To run open a terminal where you installed [FYCC]() to run the following command.
+```bash
+```
