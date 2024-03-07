@@ -23,6 +23,9 @@ If you would like to build from source open a terminal and run the following com
 ```
 
 3) Allow the build script to run.
+```bash
+```
+
 
 4) Build
 ```bash
