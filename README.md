@@ -21,3 +21,5 @@ If you would like to build from source open a terminal and run the following com
 2) Enter the dir.
 ```bash
 ```
+
+3) Build
